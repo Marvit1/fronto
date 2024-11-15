@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   
   runtimeConfig: {
     public: {
-      apiBase: 'http://127.0.0.1:8000/api/v1', // Your Django API base URL
+      apiBase: 'https://backo-aa1b430f6434.herokuapp.com/api/v1', // Your Django API base URL
     }
   },
   app: {
