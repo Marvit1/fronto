@@ -1,5 +1,8 @@
 <template>
     <div>
+      <head>
+        <link rel="icon" type="image.png" href="/fav.png" />
+      </head>
       <Header />
       <NuxtLayout>
       <NuxtPage />
