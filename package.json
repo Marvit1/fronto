@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@nuxt/image": "^1.7.0",
-    "@nuxt/kit": "^3.14.159",
+    "@nuxt/kit": "^3.14.1592",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/feed": "^2.0.0",
     "@nuxtjs/pwa": "^3.3.5",
