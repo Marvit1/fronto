@@ -42,7 +42,7 @@ export default defineNuxtConfig({
       ],
 
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/fav.png' },
+        { rel: 'icon', type: 'image/x-icon', href: 'https://www.google.com/imgres?q=png%20data%20politics&imgurl=https%3A%2F%2Fassets.genially.com%2Fs3fs-public%2FPolitical%2520data%2520videoen.png%3FVersionId%3DRIbsNy.tn2VksT1OFvXHd.NbrU3DEx8w&imgrefurl=https%3A%2F%2Fgenially.com%2Ftemplate%2Fpolitical-data-video%2F&docid=wAVmprzPCBITfM&tbnid=DH4NYaBGk_ozoM&vet=12ahUKEwj227O8kY6KAxVQA9sEHeHjMOwQM3oECEcQAA..i&w=600&h=336&hcb=2&ved=2ahUKEwj227O8kY6KAxVQA9sEHeHjMOwQM3oECEcQAA' },
       ],
     },
   },
