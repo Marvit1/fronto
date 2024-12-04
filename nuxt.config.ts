@@ -45,7 +45,7 @@ export default defineNuxtConfig({
         {name: "og:image", content: ""},
       ],
       link: [
-        { rel: 'icon', href: '/assets/pol.jpg' },
+        { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/fav.png' }, // Use .png file
 
       ],
     }
