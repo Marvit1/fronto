@@ -42,7 +42,7 @@ export default defineNuxtConfig({
       ],
 
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: 'fav.png' },
+        { rel: 'icon', type: 'image/x-icon', href: '/fav.png' },
       ],
     },
   },
