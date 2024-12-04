@@ -44,10 +44,13 @@ export default defineNuxtConfig({
         { name: 'twitter:description', content: 'News' },
         {name: "og:image", content: ""},
       ],
-      link: [
-        { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/fav.png' }, // Use .png file
-
-      ],
+     
+        link: [
+          { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/fav-32x32.png' },
+          { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/fav-16x16.png' },
+          { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
+        ],
+      
     }
   }
 })
